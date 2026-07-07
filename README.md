@@ -1,0 +1,2 @@
+# afd65eada84083c3-dental-practice-meeting-schedu
+The dental practice tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Dental Practice Meeting Scheduler And Notes Organizer — fully configured and ready to use - Pre-bui
